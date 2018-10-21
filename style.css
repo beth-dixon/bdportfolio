@@ -1,0 +1,119 @@
+
+body {
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+
+li {
+    display: block;
+    color: orange;
+    text-align: center;
+    margin: 20px;
+    text-decoration: none;
+    font-family: "Karla", "Arial" ;
+    float: right;
+}
+
+a{
+	color:orange;
+    text-decoration: none;
+
+    }
+
+li a:hover{
+	color:grey;
+    text-decoration: none;
+
+    }
+
+
+.text-color {
+  color:orange;
+
+ }
+
+ .casestudies {
+ padding-top: 10px
+ }
+
+
+ p {
+ font-family: "Karla", "Arial" ;
+ font-size: 16px;
+ padding-left: 160px;
+ width: 800px;
+
+ }
+
+ h3 a {
+ font-family: "Karla", "Arial";
+ font-size: 18px;
+ padding-left: 160px;
+ padding-top: 20px;
+ width: 600px;
+ color: orange;
+ text-decoration: none;
+}
+
+h1 {
+ font-family: "Karla", "Arial";
+ font-size: 24px;
+ padding-left: 160px;
+ padding-top: 20px;
+ width: 600px;
+ color: orange;
+ text-decoration: none;
+}
+
+
+h2{ 
+font-family: "Karla", "Arial";
+ font-size: 18px;
+ padding-left: 160px;
+ width: 600px;
+ text-decoration: none;
+    }
+    
+
+
+.introduction{
+padding-left: 160px;
+ padding-top: 40px;
+ font-size: 22px;
+    width: 600px;
+
+}
+    
+    .navigation {
+        
+        padding-right: 200px; 
+        padding-top: 10px;
+        
+    }
+
+.images {
+    padding-left: 160px; 
+    padding-top: 20px;
+    padding-bottom: 30px; 
+    width: 60%;
+}
+
+.headers {
+    color: orange;
+}
+
+.logo {
+    padding-left: 145px;
+    margin: 10px;
+    
+}
